@@ -1,2 +1,2 @@
 # dataStruct
-数据结构联系go版本
+数据结构练习golang版本
